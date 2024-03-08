@@ -107,4 +107,8 @@ h2 {
     .details {
         padding: 0 1rem; 
     }
+    .search input{
+        width: .6rem;
+        height: .6rem;
+    }
 }
