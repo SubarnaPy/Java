@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -86,7 +87,7 @@ h2 {
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 375px) {
     .card {
         padding: 2rem 1.5rem; 
     }
@@ -111,4 +112,6 @@ h2 {
         width: .6rem;
         height: .6rem;
     }
+    
 }
+
