@@ -87,7 +87,7 @@ h2 {
 }
 
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     .card {
         padding: 2rem 1.5rem; 
     }
